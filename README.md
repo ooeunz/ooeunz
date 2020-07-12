@@ -6,7 +6,7 @@
 
 ### Interest
 - DevOps(Development Operation - Especially, Cloud Platform)
-- Agile, Mentoring, Writing, photography
+- Agile, Mentoring, Writing, Photography
 
 <div align=center>
 
