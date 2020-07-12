@@ -1,6 +1,12 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fooeunz%2Fhit-counter)](https://hits.seeyoufarm.com) 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fooeunz%2Fhit-counter)](https://hits.seeyoufarm.com)
+### BackEnd Developer
+- BE Developer in AI industry (Knowledge Graph - Data Search)
+- I'm an essay writer at Brunch - 글이 작품이 되는 공간, [브런치](brunch.co.kr/@ooeunz)
+
+### Interest
+- DevOps(Development Operation - Especially, Cloud Platform)
+- Agile, Mentoring, Writing, photography
 
 <div align=center>
 
