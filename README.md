@@ -11,7 +11,7 @@
 <div align=center>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ooeunz.tistory.com/)](https://ooeunz.tistory.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunjae-shin-15a8411a0/)](https://www.linkedin.com/in/yunjae-shin-15a8411a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noah-ooeunz/)](https://www.linkedin.com/in/noah-ooeunz/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/noah.ooeunz)](https://www.facebook.com/noah.ooeunz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ooeunz/)](https://www.instagram.com/ooeunz/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuns994@gmail.com)](mailto:yuns994@gmail.com)
