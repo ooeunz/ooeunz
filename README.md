@@ -9,7 +9,7 @@
 ### BackEnd Developer
 🥯 currently working @toss
 
-🥨 ex - sw engineer @kakao enterprise
+🥨 ex - ai search developer @kakao enterprise
 
 ### Interest
 - DevOps(Development Operation - Especially, Cloud Platform)
