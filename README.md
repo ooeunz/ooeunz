@@ -7,8 +7,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ooeunz&show_icons=true)
 
 ### BackEnd Developer
-- BE Developer in AI industry (Knowledge Graph - Data Search)
-- I'm an essay writer at Brunch - 글이 작품이 되는 공간, [브런치](https://brunch.co.kr/@ooeunz)
+🥯 currently working @toss
+🥨 ex - sw engineer @kakao enterprise
 
 ### Interest
 - DevOps(Development Operation - Especially, Cloud Platform)
