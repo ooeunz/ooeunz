@@ -8,6 +8,7 @@
 
 ### BackEnd Developer
 🥯 currently working @toss
+
 🥨 ex - sw engineer @kakao enterprise
 
 ### Interest
