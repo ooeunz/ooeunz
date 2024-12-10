@@ -16,4 +16,5 @@
 </div>
 
 ### opensource contribution
+https://github.com/apache/httpcomponents-core/pull/508
 https://github.com/kubernetes/website/pull/27347
