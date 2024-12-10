@@ -16,5 +16,5 @@
 </div>
 
 ### opensource contribution
-- [apache/httpcomponents-core: Optimize connection close logic to resolve timeout delay issue](https://github.com/apache/httpcomponents-core/pull/508)
-- [kubernetes/website: Fixed broken link in content/en/blog/_posts/2019-11-26-cloud-native-java-controller-sdk.md](https://github.com/kubernetes/website/pull/27347)
+- [apache/httpcomponents-core](https://github.com/apache/httpcomponents-core/pull/508)
+- [kubernetes/website](https://github.com/kubernetes/website/pull/27347)
