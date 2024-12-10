@@ -3,14 +3,10 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ooeunz&show_icons=true)
 
-### BackEnd Developer
+### BackEnd Engineer
 🥯 currently working @toss
 
 🥨 ex - sw engineer @kakao enterprise
-
-### Interest
-- DevOps(Development Operation - Especially, Cloud Platform)
-- Agile, Mentoring, Writing, Photography
 
 <div align=center>
 </div>
