@@ -4,9 +4,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ooeunz&show_icons=true)
 
 ### Backend Engineer
-🥯 currently working @toss
+🥯 currently working [@toss](https://github.com/toss)
 
-🥨 ex - sw engineer @kakao enterprise
+🥨 ex - sw engineer [@kakao enterprise](https://github.com/kakaoenterprise)
 
 <div align=center>
 </div>
